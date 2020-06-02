@@ -18,5 +18,10 @@
     "react-dom": "^16.13.0",
     "snowpack": "^2.0.0",
     "typescript": "^3.8.0"
+  },
+  "dependencies": {
+    "@elastic/datemath": "^5.0.3",
+    "@elastic/eui": "^24.0.0",
+    "moment": "^2.26.0"
   }
 }
